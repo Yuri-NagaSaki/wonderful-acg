@@ -6,6 +6,10 @@
 - [追番](#追番)
 - [数据源](#数据源)
 - [Bilibili](#Bilibili)
+- [动漫主题](#动漫主题)
+- [图像搜索](#图像搜索)
+- [APP](#APP)
+- [弹幕](#弹幕)
 
 ## BOT
 
@@ -35,7 +39,26 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) 哔哩漫游，解除B站客户端番剧区域限制，并且提供其他小功能。
 - [bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
 - [dailycheckin](https://github.com/Sitoi/dailycheckin) 基于腾讯云函数的自动签到
-- 
 
+## 动漫主题
 
+- [doki-theme-vscode](https://github.com/doki-theme/doki-theme-vscode) VS-Code 的可爱动漫人物主题
+- [NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)  Discord 动漫主题
+- [doki-theme-jetbrains](https://github.com/doki-theme/doki-theme-jetbrains) Jetbrains 动漫主题
+- [Telegram](https://t.me/JoinThemesWorld) Telegram 动漫主题
 
+## 图像搜索
+
+- [WAIT: What Anime Is This?](https://github.com/soruly/trace.moe)  动漫图像搜索
+
+## APP
+
+- [wara4a](https://github.com/re-ovo/iwara4a)  基于Jetpack Compose开发的iwara安卓app
+
+## 弹幕
+
+- [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - 弹幕评论的视频播放器。HTML5 中的 ABPlayer。
+- [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) -Javascript 实时评论（弹幕）引擎实现. 
+- [Danmaku](https://github.com/weizhenye/Danmaku) - 高性能 JavaScript 弹幕引擎。
+- [danmaku2ass](https://github.com/m13253/danmaku2ass) - 将评论从 Niconico/AcFun/bilibili 转换为 ASS 格式。
+- [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 弹幕视频播放器。
