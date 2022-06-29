@@ -5,6 +5,7 @@
 - [Bot](#Bot)
 - [追番](#追番)
 - [数据源](#数据源)
+- [Bilibili](#Bilibili)
 
 ## BOT
 
@@ -25,3 +26,16 @@
 
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data)  蜜柑
 - [一言（ヒトコト）](http://hitokoto.cn) 一言
+
+## Bilibili
+- [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  强大的哔哩哔哩增强脚本
+- [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) 用于从各种网站下载图像/视频/音乐/文本等的桌面实用程序
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) 哔哩哔哩-API
+- [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)  适用于新系统UI的哔哩
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) 哔哩漫游，解除B站客户端番剧区域限制，并且提供其他小功能。
+- [bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
+- [dailycheckin](https://github.com/Sitoi/dailycheckin) 基于腾讯云函数的自动签到
+- 
+
+
+
