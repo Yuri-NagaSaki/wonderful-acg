@@ -13,10 +13,11 @@
 
 ## BOT
 
-- [zhenxun_bot](https://github.com/HibiKier/zhenxun_bot)  基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot.
+- [zhenxun_bot](https://github.com/HibiKier/zhenxun_bot)  基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot
 - [nonebot](https://github.com/nonebot/nonebot)  基于 OneBot 标准的 Python 异步 QQ 机器人框架.
-- [Adachi-BOT](https://github.com/Arondight/Adachi-BOT)  一个在QQ中运行的原神助手.
-- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  cqhttp的golang实现，轻量、原生跨平台.
+- [Adachi-BOT](https://github.com/Arondight/Adachi-BOT)  一个在QQ中运行的原神助手
+- [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  cqhttp的golang实现，轻量、原生跨平台
+- [nazurin](https://github.com/y-young/nazurin) 图片收藏机器人 
 
 ## 追番
 
@@ -46,6 +47,8 @@
 - [NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)  Discord 动漫主题
 - [doki-theme-jetbrains](https://github.com/doki-theme/doki-theme-jetbrains) Jetbrains 动漫主题
 - [Telegram](https://t.me/JoinThemesWorld) Telegram 动漫主题
+- [Sakurairo](https://github.com/mirai-mamori/Sakurairo) Wordpress 主题
+- [sakura](https://github.com/mashirozx/sakura)  Wordpress 主题
 
 ## 图像搜索
 
@@ -54,6 +57,9 @@
 ## APP
 
 - [wara4a](https://github.com/re-ovo/iwara4a)  基于Jetpack Compose开发的iwara安卓app
+- [AcgClub](https://github.com/Rabtman/AcgClub) 一款纯粹的ACG聚合类App
+- [pikapika](https://github.com/niuhuan/pikapika)  (R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS
+- [jasmine](https://github.com/niuhuan/jasmine)  (R18+) 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux
 
 ## 弹幕
 
