@@ -18,6 +18,8 @@
 - [Adachi-BOT](https://github.com/Arondight/Adachi-BOT)  一个在QQ中运行的原神助手
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)  cqhttp的golang实现，轻量、原生跨平台
 - [nazurin](https://github.com/y-young/nazurin) 图片收藏机器人 
+- [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) 原神qq群机器人
+- [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) A qqbot for Princess Connect Re:Dive
 
 ## 追番
 
@@ -26,6 +28,7 @@
 - [animeTrackerList](https://github.com/DeSireFire/animeTrackerList) 动漫磁性链接加速方案
 - [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) AutoBangumi - 全自动追番工具，节约时间创造价值
 - [AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
+- 
 
 ## 数据源
 
@@ -60,6 +63,7 @@
 - [AcgClub](https://github.com/Rabtman/AcgClub) 一款纯粹的ACG聚合类App
 - [pikapika](https://github.com/niuhuan/pikapika)  (R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS
 - [jasmine](https://github.com/niuhuan/jasmine)  (R18+) 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux
+- [EasyBangumi](https://github.com/heyanLE/EasyBangumi) 纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫
 
 ## 弹幕
 
