@@ -20,6 +20,7 @@
 - [nazurin](https://github.com/y-young/nazurin) 图片收藏机器人 
 - [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) 原神qq群机器人
 - [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) A qqbot for Princess Connect Re:Dive
+- [ABot-Graia](https://github.com/djkcyl/ABot-Graia) 一个使用 Graia Ariadne 搭建的 QQ 功能性机器人
 
 ## 追番
 
