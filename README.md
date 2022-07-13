@@ -10,6 +10,7 @@
 - [图像搜索](#图像搜索)
 - [APP](#APP)
 - [弹幕](#弹幕)
+- [Pixiv](#Pixiv)
 
 ## BOT
 
@@ -73,3 +74,9 @@
 - [Danmaku](https://github.com/weizhenye/Danmaku) - 高性能 JavaScript 弹幕引擎。
 - [danmaku2ass](https://github.com/m13253/danmaku2ass) - 将评论从 Niconico/AcFun/bilibili 转换为 ASS 格式。
 - [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 弹幕视频播放器。
+
+## Pixiv
+
+- [PixivBiu](https://github.com/txperl/PixivBiu)  Pixiv 辅助工具.
+- [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader)  Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等.
+- [PixivFanboxDownloader](https://github.com/xuejianxianzun/PixivFanboxDownloader) Chrome 扩展，用于批量下载 Pixiv Fanbox 上的文件.
