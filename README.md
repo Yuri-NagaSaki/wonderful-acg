@@ -30,7 +30,9 @@
 - [animeTrackerList](https://github.com/DeSireFire/animeTrackerList) 动漫磁性链接加速方案
 - [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) AutoBangumi - 全自动追番工具，节约时间创造价值
 - [AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
-- 
+- [PlexAniSync](https://github.com/RickDB/PlexAniSync)  将 Plex 动漫库同步到 AniList
+- [Bangumi](https://github.com/RanKKI/Bangumi) 高度自定义的自动追番项目，搭配 Jellyfin 等媒体库使用更香
+- [animity](https://github.com/kl3jvi/animity) Android 追番流媒体（国外）
 
 ## 数据源
 
@@ -66,6 +68,8 @@
 - [pikapika](https://github.com/niuhuan/pikapika)  (R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS
 - [jasmine](https://github.com/niuhuan/jasmine)  (R18+) 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux
 - [EasyBangumi](https://github.com/heyanLE/EasyBangumi) 纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫
+- [hacg](https://github.com/yueeng/hacg)  琉璃神社 hacg android app by scala 
+- [misskey](https://github.com/misskey-dev/misskey) 🌎 An interplanetary microblogging platform 🚀
 
 ## 弹幕
 
