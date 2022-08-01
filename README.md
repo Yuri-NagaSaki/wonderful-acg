@@ -47,6 +47,7 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) 哔哩漫游，解除B站客户端番剧区域限制，并且提供其他小功能。
 - [bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
 - [dailycheckin](https://github.com/Sitoi/dailycheckin) 基于腾讯云函数的自动签到
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能
 
 ## 动漫主题
 
