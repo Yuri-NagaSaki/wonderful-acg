@@ -80,6 +80,7 @@
 - [Danmaku](https://github.com/weizhenye/Danmaku) - 高性能 JavaScript 弹幕引擎。
 - [danmaku2ass](https://github.com/m13253/danmaku2ass) - 将评论从 Niconico/AcFun/bilibili 转换为 ASS 格式。
 - [DPlayer](https://github.com/DIYgod/DPlayer) - HTML5 弹幕视频播放器。
+- [AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) 整合第三方网站的视频和弹幕, 为白嫖党提供最佳看番追剧体验
 
 ## Pixiv
 
