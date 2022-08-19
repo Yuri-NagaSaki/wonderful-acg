@@ -34,6 +34,7 @@
 - [PlexAniSync](https://github.com/RickDB/PlexAniSync)  将 Plex 动漫库同步到 AniList
 - [Bangumi](https://github.com/RanKKI/Bangumi) 高度自定义的自动追番项目，搭配 Jellyfin 等媒体库使用更香
 - [animity](https://github.com/kl3jvi/animity) Android 追番流媒体（国外）
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection)  每日更新！流行的 BitTorrent 跟踪器列表！/每天更新！全网热门BT追踪器列表！
 
 ## 数据源
 
