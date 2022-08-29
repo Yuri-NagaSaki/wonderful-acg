@@ -92,3 +92,4 @@
 ## Tools
 
 - [voicevox](https://github.com/VOICEVOX/voicevox)   文本转语音
+- [sakana](https://github.com/itorr/sakana)  🐟「Sakana!」
