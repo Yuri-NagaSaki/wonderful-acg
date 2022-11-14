@@ -26,7 +26,7 @@
 - [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) 原神qq群机器人
 - [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) A qqbot for Princess Connect Re:Dive
 - [ABot-Graia](https://github.com/djkcyl/ABot-Graia) 一个使用 Graia Ariadne 搭建的 QQ 功能性机器人
-- [novelai-bot](https://github.com/koishijs/novelai-bot) Generate images by NovelAI | 基于 NovelAI 的画图机器人
+- [novelai-bot](https://github.com/koishijs/novelai-bot) 基于 NovelAI 的画图机器人
 - [Majsoul_bot](https://github.com/DaiShengSheng/Majsoul_bot) HoshinoBot下的雀魂QQ机器人
 - [Majsoul-QQBot](https://github.com/NekoRabi/Majsoul-QQBot) 基于YiriMirai的雀魂机器人
 
