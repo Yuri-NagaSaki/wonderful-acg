@@ -33,6 +33,8 @@
 
 ## 追番
 
+- [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) 全自动追番工具
+- [minaplay](https://github.com/nepsyn/minaplay) MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
 - [MALSync](https://github.com/MALSync/MALSync) 将 MyAnimeList/AniList/Kitsu/Simkl 集成到站点中，并具有自动剧集跟踪功能。
 - [Imomoe](https://github.com/SkyD666/Imomoe) 樱花动漫第三方安卓Android客户端
 - [animeTrackerList](https://github.com/DeSireFire/animeTrackerList) 动漫磁性链接加速方案
@@ -42,6 +44,12 @@
 - [Bangumi](https://github.com/RanKKI/Bangumi) 高度自定义的自动追番项目，搭配 Jellyfin 等媒体库使用更香
 - [animity](https://github.com/kl3jvi/animity) Android 追番流媒体（国外）
 - [TrackersListCollection](https://github.com/XIU2/TrackersListCollection)  每日更新！流行的 BitTorrent 跟踪器列表！/每天更新！全网热门BT追踪器列表！
+- [miru](https://github.com/ThaUnknown/miru) 流式下载种子的客户端，边看边下
+- [seanime](https://github.com/5rahim/seanime) 扫描、自动化和欣赏您的动漫收藏、阅读漫画、跟踪您的进度等等 AniList 集成
+- [sub_share](https://github.com/foxofice/sub_share) 字幕共享
+- [Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) 拨雪寻春字幕组
+- [MPV_lazy](https://github.com/hooke007/MPV_lazy) MPV 播放器懒人包
+- [Anime-Subtitles](https://github.com/bipy/Anime-Subtitles) 外挂字幕备份
 
 ## 数据源
 
