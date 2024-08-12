@@ -45,11 +45,15 @@
 - [animity](https://github.com/kl3jvi/animity) Android 追番流媒体（国外）
 - [TrackersListCollection](https://github.com/XIU2/TrackersListCollection)  每日更新！流行的 BitTorrent 跟踪器列表！/每天更新！全网热门BT追踪器列表！
 - [miru](https://github.com/ThaUnknown/miru) 流式下载种子的客户端，边看边下
+- [Miruro](https://github.com/Miruro-no-kuon/Miruro) 基于⚡ Vite 和🍞 Bun 的在线动漫
 - [seanime](https://github.com/5rahim/seanime) 扫描、自动化和欣赏您的动漫收藏、阅读漫画、跟踪您的进度等等 AniList 集成
 - [sub_share](https://github.com/foxofice/sub_share) 字幕共享
 - [Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) 拨雪寻春字幕组
 - [MPV_lazy](https://github.com/hooke007/MPV_lazy) MPV 播放器懒人包
 - [Anime-Subtitles](https://github.com/bipy/Anime-Subtitles) 外挂字幕备份
+- [AnimeGarden](https://github.com/yjl9903/AnimeGarden)   动漫花园第3方镜像站及动漫Torrent聚合站
+- [fixarr](https://github.com/sachinsenal0x64/fixarr) 字幕重命名方案
+- [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 
 ## 数据源
 
