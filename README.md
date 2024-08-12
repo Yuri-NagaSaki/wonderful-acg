@@ -54,6 +54,7 @@
 - [AnimeGarden](https://github.com/yjl9903/AnimeGarden)   动漫花园第3方镜像站及动漫Torrent聚合站
 - [fixarr](https://github.com/sachinsenal0x64/fixarr) 字幕重命名方案
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
+- [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
 
 ## 数据源
 
