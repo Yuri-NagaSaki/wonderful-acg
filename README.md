@@ -35,6 +35,7 @@
 
 - [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) 全自动追番工具
 - [minaplay](https://github.com/nepsyn/minaplay) MinaPlay 是一个基于 RSS 订阅的追番 / 追剧个人媒体库。
+- [ani-rss](https://github.com/wushuo894/ani-rss) 全自动追番工具 （作者因不满Auto_Bangumi的 bug 的 Java 版 ）
 - [MALSync](https://github.com/MALSync/MALSync) 将 MyAnimeList/AniList/Kitsu/Simkl 集成到站点中，并具有自动剧集跟踪功能。
 - [Imomoe](https://github.com/SkyD666/Imomoe) 樱花动漫第三方安卓Android客户端
 - [animeTrackerList](https://github.com/DeSireFire/animeTrackerList) 动漫磁性链接加速方案
@@ -55,6 +56,7 @@
 - [fixarr](https://github.com/sachinsenal0x64/fixarr) 字幕重命名方案
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 - [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
+
 
 ## 数据源
 
