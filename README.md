@@ -58,6 +58,7 @@
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 - [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
 - [fontInAss](https://github.com/RiderLty/fontInAss) 实时将字体子集化后嵌入ass的工具
+- [Kyoo](https://github.com/zoriya/Kyoo) 新的媒体库解决方案
 
 ## 数据源
 
