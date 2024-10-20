@@ -58,7 +58,7 @@
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 - [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
 - [fontInAss](https://github.com/RiderLty/fontInAss) 实时将字体子集化后嵌入ass的工具
-- [Kyoo](https://github.com/zoriya/Kyoo) 新的媒体库解决方案
+- [Kyoo](https://github.com/zoriya/Kyoo) 新的媒体库解决方案，Jellyfin 或 Plex 的替代品。
 
 ## 数据源
 
@@ -76,7 +76,7 @@
 - [dailycheckin](https://github.com/Sitoi/dailycheckin) 基于腾讯云函数的自动签到
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) Bilibili 页面的重新设计
-- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。（强烈推荐）
+- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 一款跳过B站视频中恰饭片段的浏览器插件（强烈推荐）
 
 ## 动漫主题
 
