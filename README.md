@@ -73,6 +73,7 @@
 - [dailycheckin](https://github.com/Sitoi/dailycheckin) 基于腾讯云函数的自动签到
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) Bilibili 页面的重新设计
+- [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。（强烈推荐）
 
 ## 动漫主题
 
