@@ -56,12 +56,13 @@
 - [fixarr](https://github.com/sachinsenal0x64/fixarr) 字幕重命名方案
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 - [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
-
+- [fontInAss](https://github.com/RiderLty/fontInAss) 实时将字体子集化后嵌入ass的工具
 
 ## 数据源
 
 - [Bangumi Data](https://github.com/bangumi-data/bangumi-data)  蜜柑
 - [一言（ヒトコト）](http://hitokoto.cn) 一言
+- [AnimeGarden](https://github.com/yjl9903/AnimeGarden) 动漫花园第三方镜像
 
 ## Bilibili
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  强大的哔哩哔哩增强脚本
@@ -87,6 +88,9 @@
 ## 图像搜索
 
 - [WAIT: What Anime Is This?](https://github.com/soruly/trace.moe)  动漫图像搜索
+
+## 漫画
+- [LANraragi](https://github.com/Difegue/LANraragi) 开源漫画存储仓库
 
 ## APP
 
