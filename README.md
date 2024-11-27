@@ -39,6 +39,7 @@
 - [ani-rss](https://github.com/wushuo894/ani-rss) 全自动追番工具 （作者因不满Auto_Bangumi的 bug 的 Java 版 ）
 - [MALSync](https://github.com/MALSync/MALSync) 将 MyAnimeList/AniList/Kitsu/Simkl 集成到站点中，并具有自动剧集跟踪功能。
 - [Imomoe](https://github.com/SkyD666/Imomoe) 樱花动漫第三方安卓Android客户端
+- [animeko](https://github.com/open-ani/animeko) 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤
 - [animeTrackerList](https://github.com/DeSireFire/animeTrackerList) 动漫磁性链接加速方案
 - [Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) AutoBangumi - 全自动追番工具，节约时间创造价值
 - [AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
