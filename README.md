@@ -126,6 +126,7 @@
 - [voicevox](https://github.com/VOICEVOX/voicevox)   文本转语音
 - [sakana](https://github.com/itorr/sakana)  🐟「Sakana!」
 - [paimon-moe](https://github.com/MadeBaruna/paimon-moe) Genshin Impact追踪器
+- [SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) 适配轻小说/Galgame的日中翻译大模型
 
 
 ## AI作画
