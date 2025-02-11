@@ -53,6 +53,7 @@
 - [sub_share](https://github.com/foxofice/sub_share) 字幕共享
 - [Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) 拨雪寻春字幕组
 - [MPV_lazy](https://github.com/hooke007/MPV_lazy) MPV 播放器懒人包
+- [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) mpv.net_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
 - [Anime-Subtitles](https://github.com/bipy/Anime-Subtitles) 外挂字幕备份
 - [AnimeGarden](https://github.com/yjl9903/AnimeGarden)   动漫花园第3方镜像站及动漫Torrent聚合站
 - [fixarr](https://github.com/sachinsenal0x64/fixarr) 字幕重命名方案
