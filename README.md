@@ -30,6 +30,7 @@
 - [novelai-bot](https://github.com/koishijs/novelai-bot) 基于 NovelAI 的画图机器人
 - [Majsoul_bot](https://github.com/DaiShengSheng/Majsoul_bot) HoshinoBot下的雀魂QQ机器人
 - [Majsoul-QQBot](https://github.com/NekoRabi/Majsoul-QQBot) 基于YiriMirai的雀魂机器人
+- [CyberGroupmate](https://github.com/Archeb/CyberGroupmate) 赛博群友
 
 
 ## 追番
@@ -127,12 +128,14 @@
 - [sakana](https://github.com/itorr/sakana)  🐟「Sakana!」
 - [paimon-moe](https://github.com/MadeBaruna/paimon-moe) Genshin Impact追踪器
 - [SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) 适配轻小说/Galgame的日中翻译大模型
+- [anilist-mcp](https://github.com/yuna0x0/anilist-mcp)
 
 
-## AI作画
+## AI
 - [StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook)  AI 作画Wiki
 - [danbooru-diffusion-prompt-builder](https://github.com/wfjsw/danbooru-diffusion-prompt-builder) Danbooru/NovelAI tag
 - [AI_image_gen](https://github.com/CYDXDianXian/AI_image_gen)  NovelAI绘图HoshinoBot插件版
+- [airi](https://github.com/moeru-ai/airi) AI VTuber
 
 
   
