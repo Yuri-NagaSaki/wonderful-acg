@@ -61,7 +61,9 @@
 - [subtitle-renamer](https://github.com/nuthx/subtitle-renamer) 跨平台字幕重命名方案
 - [bangumi-renamer](https://github.com/nuthx/bangumi-renamer) 自动识别番剧基于罗马音进行重命名
 - [fontInAss](https://github.com/RiderLty/fontInAss) 实时将字体子集化后嵌入ass的工具
-- [Kyoo](https://github.com/zoriya/Kyoo) 新的媒体库解决方案，Jellyfin 或 Plex 的替代品。
+- [Kyoo](https://github.com/zoriya/Kyoo) 新的媒体库解决方案，Jellyfin 或 Plex 的替代品
+- [dd-danmaku](https://github.com/chen3861229/dd-danmaku) Emby 新版弹幕插件
+- [StrmAssistant](https://github.com/sjtuross/StrmAssistant) Emby神医助手
 
 ## 数据源
 
@@ -80,6 +82,8 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能
 - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) Bilibili 页面的重新设计
 - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) 一款跳过B站视频中恰饭片段的浏览器插件（强烈推荐）
+- [yutto](https://github.com/yutto-dev/yutto) 🧊 一个可爱且任性的 B 站视频下载器
+- [bili-sync](https://github.com/amtoaer/bili-sync) 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 
 ## 动漫主题
 
@@ -106,6 +110,8 @@
 - [EasyBangumi](https://github.com/heyanLE/EasyBangumi) 纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫
 - [hacg](https://github.com/yueeng/hacg)  琉璃神社 hacg android app by scala 
 - [misskey](https://github.com/misskey-dev/misskey) 🌎 An interplanetary microblogging platform 🚀
+- [NipaPlay](https://github.com/MCDFsteve/NipaPlay) Nipaplay 一款跨平台（Windows Linux macOS）本地弹幕视频播放器。弹弹play 的mac代餐。
+
 
 ## 弹幕
 
