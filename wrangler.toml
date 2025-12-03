@@ -1,0 +1,5 @@
+name = "wonderful-acg"
+compatibility_date = "2025-12-03"
+
+[assets]
+directory = "./dist"

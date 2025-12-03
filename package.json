@@ -4,13 +4,16 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "deploy": "astro build && wrangler deploy"
   },
   "dependencies": {
     "astro": "^5.16.3",
     "@tailwindcss/vite": "^4.1.17",
     "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "wrangler": "^4.16.0"
   }
 }
