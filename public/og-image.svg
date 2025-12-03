@@ -1,0 +1,33 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c1a"/>
+      <stop offset="50%" style="stop-color:#1a1528"/>
+      <stop offset="100%" style="stop-color:#0f0c1a"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#f472b6"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc0cb"/>
+      <stop offset="100%" style="stop-color:#ff69b4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Sakura -->
+  <g transform="translate(600, 200)">
+    <ellipse cx="0" cy="-50" rx="24" ry="40" fill="url(#petal)" transform="rotate(0 0 0)"/>
+    <ellipse cx="0" cy="-50" rx="24" ry="40" fill="url(#petal)" transform="rotate(72 0 0)"/>
+    <ellipse cx="0" cy="-50" rx="24" ry="40" fill="url(#petal)" transform="rotate(144 0 0)"/>
+    <ellipse cx="0" cy="-50" rx="24" ry="40" fill="url(#petal)" transform="rotate(216 0 0)"/>
+    <ellipse cx="0" cy="-50" rx="24" ry="40" fill="url(#petal)" transform="rotate(288 0 0)"/>
+    <circle cx="0" cy="0" r="16" fill="#ffeb3b"/>
+  </g>
+  <!-- Title -->
+  <text x="600" y="380" font-family="sans-serif" font-size="72" font-weight="bold" fill="url(#text)" text-anchor="middle">WonderFul ACG</text>
+  <!-- Subtitle -->
+  <text x="600" y="450" font-family="sans-serif" font-size="32" fill="#94a3b8" text-anchor="middle">精选 ACG 相关工具、应用、资源导航</text>
+  <!-- URL -->
+  <text x="600" y="550" font-family="sans-serif" font-size="24" fill="#6366f1" text-anchor="middle">wonderful-acg.catcat.blog</text>
+</svg>
