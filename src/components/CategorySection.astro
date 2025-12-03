@@ -1,0 +1,35 @@
+---
+import ProjectCard from './ProjectCard.astro';
+import type { Project } from '../data/projects';
+
+interface Props {
+  id: string;
+  name: string;
+  icon: string;
+  projects: Project[];
+}
+
+const { id, name, icon, projects } = Astro.props;
+---
+
+<section id={id} class="scroll-mt-24">
+  <div class="flex items-center gap-3 mb-6">
+    <span class="text-3xl">{icon}</span>
+    <h2 class="text-2xl font-bold text-text">{name}</h2>
+    <span class="px-3 py-1 text-sm bg-surface-light text-text-muted rounded-full">
+      {projects.length}
+    </span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 auto-rows-fr">
+    {projects.map((project) => (
+      <div class="project-card-wrapper h-full" data-title={project.title} data-desc={project.description}>
+        <ProjectCard
+          title={project.title}
+          description={project.description}
+          url={project.url}
+          nsfw={project.nsfw}
+        />
+      </div>
+    ))}
+  </div>
+</section>

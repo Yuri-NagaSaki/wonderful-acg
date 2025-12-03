@@ -1,0 +1,114 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import CategorySection from '../components/CategorySection.astro';
+import { categories, totalProjects } from '../data/projects';
+---
+
+<Layout title="WonderFul ACG - ACG 资源导航">
+  <Header />
+
+  <main class="max-w-7xl mx-auto px-4 py-12">
+    <!-- Hero Section -->
+    <div class="text-center mb-16">
+      <h1 class="text-5xl md:text-6xl font-bold mb-6">
+        <span class="gradient-text">WonderFul ACG</span>
+      </h1>
+      <p class="text-xl text-text-muted max-w-2xl mx-auto mb-8">
+        精选 ACG 相关工具、应用、机器人等资源导航
+      </p>
+      <div class="flex items-center justify-center gap-6 text-text-muted">
+        <div class="flex items-center gap-2">
+          <span class="text-2xl font-bold text-primary">{totalProjects}</span>
+          <span>个项目</span>
+        </div>
+        <div class="w-px h-6 bg-surface-light"></div>
+        <div class="flex items-center gap-2">
+          <span class="text-2xl font-bold text-accent">{categories.length}</span>
+          <span>个分类</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="max-w-xl mx-auto mb-16">
+      <div class="relative">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="搜索项目..."
+          class="w-full px-6 py-4 bg-surface rounded-2xl border border-surface-light focus:border-primary focus:outline-none text-text placeholder:text-text-muted transition-colors"
+        />
+        <svg class="absolute right-6 top-1/2 -translate-y-1/2 w-5 h-5 text-text-muted" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Quick Nav -->
+    <div class="flex flex-wrap justify-center gap-2 mb-16">
+      {categories.map(cat => (
+        <a
+          href={`#${cat.id}`}
+          class="px-4 py-2 bg-surface hover:bg-surface-light rounded-xl text-sm text-text-muted hover:text-text transition-colors"
+        >
+          {cat.icon} {cat.name}
+        </a>
+      ))}
+    </div>
+
+    <!-- Categories -->
+    <div class="space-y-16" id="categories-container">
+      {categories.map(cat => (
+        <CategorySection
+          id={cat.id}
+          name={cat.name}
+          icon={cat.icon}
+          projects={cat.projects}
+        />
+      ))}
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-surface-light mt-20">
+    <div class="max-w-7xl mx-auto px-4 py-8 text-center text-text-muted">
+      <p>
+        Created by
+        <a href="https://catcat.blog/" target="_blank" class="text-primary hover:underline">
+          猫猫博客
+        </a>
+      </p>
+      <p class="mt-2 text-sm">
+        Powered by <a href="https://astro.build" target="_blank" class="hover:text-text">Astro</a> &
+        <a href="https://tailwindcss.com" target="_blank" class="hover:text-text">Tailwind CSS</a>
+      </p>
+    </div>
+  </footer>
+</Layout>
+
+<script>
+  const searchInput = document.getElementById('search-input') as HTMLInputElement;
+  const sections = document.querySelectorAll('section[id]');
+
+  searchInput?.addEventListener('input', (e) => {
+    const query = (e.target as HTMLInputElement).value.toLowerCase();
+
+    document.querySelectorAll('.project-card-wrapper').forEach((wrapper) => {
+      const card = wrapper as HTMLElement;
+      const title = card.dataset.title?.toLowerCase() || '';
+      const desc = card.dataset.desc?.toLowerCase() || '';
+
+      if (title.includes(query) || desc.includes(query)) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    sections.forEach((section) => {
+      const visibleCards = section.querySelectorAll('.project-card-wrapper:not([style*="display: none"])');
+      (section as HTMLElement).style.display = visibleCards.length > 0 ? '' : 'none';
+    });
+  });
+</script>

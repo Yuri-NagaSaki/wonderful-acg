@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="petal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffc0cb"/>
+      <stop offset="100%" style="stop-color:#ff69b4"/>
+    </linearGradient>
+  </defs>
+  <!-- 5 petals -->
+  <ellipse cx="50" cy="25" rx="12" ry="20" fill="url(#petal)" transform="rotate(0 50 50)"/>
+  <ellipse cx="50" cy="25" rx="12" ry="20" fill="url(#petal)" transform="rotate(72 50 50)"/>
+  <ellipse cx="50" cy="25" rx="12" ry="20" fill="url(#petal)" transform="rotate(144 50 50)"/>
+  <ellipse cx="50" cy="25" rx="12" ry="20" fill="url(#petal)" transform="rotate(216 50 50)"/>
+  <ellipse cx="50" cy="25" rx="12" ry="20" fill="url(#petal)" transform="rotate(288 50 50)"/>
+  <!-- center -->
+  <circle cx="50" cy="50" r="8" fill="#ffeb3b"/>
+</svg>
